@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37625#Our-Old-Home-Vol.-2Annotated-with-Passages-from-the-Author-s-Notebook
 gutenberg_issued: '2011-10-04'
 gutenberg_type: Text
 identifiers:
